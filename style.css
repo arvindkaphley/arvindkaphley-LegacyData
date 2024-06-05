@@ -118,3 +118,13 @@ nav ul li{
         left: 100%;
     }
 } */
+
+
+@media (max-width: 600px) {
+    .winbox {
+        width: 80% !important;
+        height: 60% !important;
+        left: 10% !important;
+        right: 10% !important;
+    }
+}
